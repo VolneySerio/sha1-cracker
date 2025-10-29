@@ -6,3 +6,6 @@ edition = "2024"
 [dependencies]
 sha-1 = "0.9"
 hex = "0.4"
+ratatui = "0.29.0"
+serde = "1.0.228"
+crossterm = "0.29.0"
